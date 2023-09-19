@@ -18,9 +18,6 @@ public class Java7SpringJdbcHt1Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Java7SpringJdbcHt1Application.class, args);
-
-//        jdbcTemplate.update(sqlCust,"Max","Miximov",30,"89001283034");
     }
-
 
 }
